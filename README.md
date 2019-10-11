@@ -2,6 +2,10 @@
 
 Este documento contiene guías e ideas generales (no reglas) para estructurar el trabajo de fin de grado.
 
+## Normativa TFG
+
+Lo primero es leerse la normativa del TFG del año que nos toca. Siempre hay información relevante.
+
 ## Capítulos
 
 Hay 5 partes importantes que todo trabajo académico tiene que contemplar. Lo normal es estructurar el documento de forma que estas partes se correspondan con los capítulos:
