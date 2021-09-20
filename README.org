@@ -1,14 +1,19 @@
 #+TITLE: Instrucciones generales para hacer la memoria del TFG
 
-Este documento contiene guías e ideas generales (no reglas) para estructurar el trabajo de fin de grado.
+Este documento contiene guías e ideas generales (no reglas) para estructurar el trabajo de fin de grado. Es fundamental tener en cuenta que la memoria va a ser la primera impresión (y, junto con la presentación, la más relevante), y que el tribunal se la mirará con detalle.
+
+*La calidad de la memoria es esencial para aprobar el TFG.*
 
 * Normativa TFG
 
-Lo primero es leerse la normativa del TFG del año que nos toca. Siempre hay información relevante.
+Lo primero es leerse la [[https://informatica.ucm.es/trabajo-de-fin-de-grado-y-sistemas-informaticos][normativa del TFG del año que nos toca]]. Siempre hay información relevante, y veréis:
+
+- Los plazos de entrega. De estos, el llamado "Entrega de la memoria final y de la autorización de difusión" es la fecha final en la que ya no se pueden hacer más cambios.
+- Que hay que hacer una parte en inglés.
 
 * Capítulos
 
-Hay 5 partes importantes que todo trabajo académico tiene que contemplar. Lo normal es estructurar el documento de forma que estas partes se correspondan con los capítulos:
+Hay 5 partes importantes que todo trabajo académico (no sólo la memoria del TFG) tiene que contemplar. Lo normal es estructurar el documento de forma que estas partes se correspondan con los capítulos:
 
 ** Resumen (abstract)
 
@@ -34,30 +39,58 @@ Una lista /concreta/ de cosas que se quieren conseguir. Muchas veces ayudará ha
 - Implementar un algoritmo que descubra las caras que se parecen a 7
 - Hacer un experimento con caras reales
 
-*** Metodología y plan de trabajo
+*** Metodología
 
-Un plan, a priori, de cómo se van a repartir los recursos y el tiempo, por tareas. Algo parecido a un [[https://es.wikipedia.org/wiki/Diagrama_de_Gantt][diagrama de Gantt]], aunque no tiene que ser tan técnico.
+
+
+
+**** Tecnologías y herramientas usadas
+Scrum, GitHub, Discord... explicad sobre qué plataformas de desarrollo elaboráis el proyecto.
+
+
+**** Plan de trabajo
+
+Una manera sencilla es coger los [[Objetivos][*Objetivos]] y, uno por uno, ponerles una fecha aproximada (en /slots/ como mucho de "1ª semana de noviembre", aunque puede ser incluso "durante diciembre"). En una tabla, ideal.
+
+Este plan de cómo se van a repartir los recursos y el tiempo queda *también* muy bien con un [[https://es.wikipedia.org/wiki/Diagrama_de_Gantt][diagrama de Gantt]], aunque no tiene que ser tan técnico.
 
 *** Estructura del resto del documento
 
 Esto es más una costumbre, pero ayuda. Algo del estilo de: "En el capítulo 2 se estudiará el estado del arte. En el 3, 4 y 5 se describe la propuesta basada en números primos..."
 
 ** Estudio del trabajo previo (o "estado del arte")
+
 Una parte lenta de hacer, pero muy importante. En esta parte se describe todo el trabajo sobre el que se construye nuestra propuesta. Tiene que tener muchas citas, y esas citas son /idealmente/ artículos y libros técnicos y científicos. Sólo en el caso de citar algo que no esté como publicación clásica (un videojuego) se permite no ser tan riguroso.
 
 *** Trabajos parecidos o relacionados
-Aquí hay que hacer una revisión general de todo lo que se parezca a nuestro trabajo. *** Tecnologías usadas en el trabajo
-Aquí se describen las tecnologías que usamos: librerías, entornos, plataformas... No hay que poner imágenes con los logos ni contar cosas triviales (no hay que explicar qué navegador de Internet usamos, a no ser que el proyecto vaya de eso). ** Contribución
+Aquí hay que hacer una revisión general de todo lo que se parezca a nuestro trabajo.
 
-Esta parte puede ser un solo capítulo, aunque pueden (y suelen) ser más, dependiendo de lo que se cuente. Es donde se explica lo que se ha hecho, la arquitectura, pruebas, experimentos, resultados... Idealmente, primero lo general y finalmente los resultados. ** Discusión
+*** Tecnologías usadas en el trabajo
 
-Es un capítulo que /discute/, desde el punto de vista técnico, las ventajas y limitaciones de nuestro trabajo. No hay inconveniente por admitir explícitamente las limitaciones, sobre todo si esas limitaciones no las ha superado nadie. No hay que dejarse nada, todo lo que no se discuta será discutido por el tribunal, y eso suele ser peor. ** Conclusiones y trabajo futuro
+Aquí se describen los puntos importante de las tecnologías que usamos, si es que hay algo interesante: librerías, algoritmos, plataformas... No hay que poner imágenes con los logos ni contar cosas triviales (no hay que explicar qué navegador de Internet usamos, a no ser que el proyecto vaya de eso). No hay que describir =git= ni =scrum=, eso se resuelve en
 
-El capítulo final es bastante esquemático. Se empieza con algo parecido al /abstract/, pero centrándose más en los resultados. Puede parecer redundante, porque lo es, pero se espera que se cuente aquí. Después se habla de lo que se podría hacer a partir de aquí, basándose en los resultados o en el producto de la implementación. * Ideas generales
+** Contribución
 
+Esta parte puede ser un solo capítulo, aunque pueden (y suelen) ser más, dependiendo de lo que se cuente. Es donde se explica lo que se ha hecho, la arquitectura, pruebas, experimentos, resultados... Idealmente, primero lo general y finalmente los resultados.
+
+** Discusión
+
+Es un capítulo que /discute/, desde el punto de vista técnico, las ventajas y limitaciones de nuestro trabajo. No hay inconveniente por admitir explícitamente las limitaciones, sobre todo si esas limitaciones no las ha superado nadie. No hay que dejarse nada, todo lo que no se discuta será discutido por el tribunal, y eso suele ser peor.
+
+** Conclusiones y trabajo futuro
+
+El capítulo final es bastante esquemático. Se empieza con algo parecido al /abstract/, pero centrándose más en los resultados. Puede parecer redundante, porque lo es, pero se espera que se cuente aquí. Después se habla de lo que se podría hacer a partir de aquí, basándose en los resultados o en el producto de la implementación.
+
+* Ideas generales sobre el texto
 
 - Todas las imágenes y figuras tienen que ser útiles (nada de logos)
 - Todas las imágenes, figuras, tablas y demás tienen que estar numeradas con esquema (Tabla 2.5), y tener un pie que describa perfectamente lo que se ve. - Los títulos de capítulos y secciones tienen que ser descriptivos, no atractivos (aunque si se consiguen ambas cosas, mejor). - No se escribe en "personal". No se ponen nada como "hemos aprendido mucho", es un documento técnico. Para referirse a uno mismo, las fórmulas clásicas son usar la primera persona del plural ("hemos llevado a cabo"), o el impersonal ("se ha llevado a cabo"). - Dentro de lo razonable, repetir cosas en varios sitios no es necesariamente malo. Es muy raro que alguien se lea un documento técnico como se lee una novela, se va por secciones, se cambia de capítulo... Aunque no hay que exagerar esto, hay que asumir que mucha gente se leerá las conclusiones casi lo primero.
+
+
+* A hombros de gigantes
+
+Se han escrito ya muchos TFGs, y es muy útil que leáis TFGs ya escritos para ver cómo se hacen. La [[https://eprints.ucm.es/][UCM publica todos los TFG]], y son de libre acceso. Principalmente de la Facultad de Informática (porque siguen la normativa, sobre todo los del año anterior), pero cualquier lectura es buena. Aunque no sea lo más divertido del mundo leer trabajos de otros, intentad echar un vistazo a ejemplos (por ejemplo, de compañeros vuestros que ya hayan terminado).
+
 * Comunicación
 
 En última instancia, una memoria técnica es un ejercicio de comunicación. Se escribe para que alguien, en 1 hora, sepa todo lo relevante que ha ocurrido durante todo un año de trabajo. Filtrar, condensar, explicar bien las causas y las decisiones, y estructurar de forma que el lector tenga que emplear poco esfuerzo para entender, es fundamental. * Fechas
