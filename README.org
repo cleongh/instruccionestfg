@@ -142,6 +142,18 @@ Se han escrito ya muchos TFGs, y es muy útil que leáis TFGs ya escritos para v
 
 * Comunicación
 
-En última instancia, una memoria técnica es un ejercicio de comunicación. Se escribe para que alguien, en 1 hora, sepa todo lo relevante que ha ocurrido durante todo un año de trabajo. Filtrar, condensar, explicar bien las causas y las decisiones, y estructurar de forma que el lector tenga que emplear poco esfuerzo para entender, es fundamental. * Fechas
+En última instancia, una memoria técnica es un ejercicio de comunicación. Se escribe para que alguien, en 1 hora, sepa todo lo relevante que ha ocurrido durante todo un año de trabajo. Filtrar, condensar, explicar bien las causas y las decisiones, y estructurar de forma que el lector tenga que emplear poco esfuerzo para entender, es fundamental.
+
+* Fechas
 
 Empezad a escribir cuanto antes. Cuesta mucho esfuerzo, y en general se tiene poca práctica. Lo ideal es mandar muchas versiones al principio para que, muy pronto, la estructura coja forma y se corrijan, cuanto antes, los defectos básicos.
+
+Otra cosa importante es que cada cita, artículo, libro o idea que se encuentre se vaya añadiendo a un documento para que no se pierda información.
+
+* Plataforma
+
+Podéis usar cualquier editor o plataforma. Google Docs tiene la ventaja de que la colaboración es trivial.
+
+** Bibliografía
+
+La bibliografía es *fundamental*. Hay que procurar no citar páginas web, sino artículos científicos y libros (las páginas desaparecen, lo otro está catalogado). Gestionar una bibliografía es un poco aburrido pero con un gestor como [[https://www.zotero.org/][Zotero]] es más fácil. Google Docs tiene un plug-in para Zotero.
