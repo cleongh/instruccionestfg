@@ -131,7 +131,10 @@ El capítulo final es bastante esquemático. Se empieza con algo parecido al /ab
 * Ideas generales sobre el texto
 
 - Todas las imágenes y figuras tienen que ser útiles (nada de logos)
-- Todas las imágenes, figuras, tablas y demás tienen que estar numeradas con esquema (Tabla 2.5), y tener un pie que describa perfectamente lo que se ve. - Los títulos de capítulos y secciones tienen que ser descriptivos, no atractivos (aunque si se consiguen ambas cosas, mejor). - No se escribe en "personal". No se ponen nada como "hemos aprendido mucho", es un documento técnico. Para referirse a uno mismo, las fórmulas clásicas son usar la primera persona del plural ("hemos llevado a cabo"), o el impersonal ("se ha llevado a cabo"). - Dentro de lo razonable, repetir cosas en varios sitios no es necesariamente malo. Es muy raro que alguien se lea un documento técnico como se lee una novela, se va por secciones, se cambia de capítulo... Aunque no hay que exagerar esto, hay que asumir que mucha gente se leerá las conclusiones casi lo primero.
+- Todas las imágenes, figuras, tablas y demás tienen que estar numeradas con esquema (Tabla 2.5), y tener un pie que describa perfectamente lo que se ve.
+- Los títulos de capítulos y secciones tienen que ser descriptivos, no atractivos (aunque si se consiguen ambas cosas, mejor).
+- No se escribe en "personal". No se ponen nada como "hemos aprendido mucho", es un documento técnico. Para referirse a uno mismo, las fórmulas clásicas son usar la primera persona del plural ("hemos llevado a cabo"), o el impersonal ("se ha llevado a cabo").
+- Dentro de lo razonable, repetir cosas en varios sitios no es necesariamente malo. Es muy raro que alguien se lea un documento técnico como se lee una novela, se va por secciones, se cambia de capítulo... Aunque no hay que exagerar esto, hay que asumir que mucha gente se leerá las conclusiones casi lo primero.
 - Poned títulos de capítulos y secciones largos y descriptivos. No pongáis "contribución" o "prototipo". Poned "Desarrollo del sistema inteligente para hacer palomitas" o "Detalle de modelo computacional del primer prototipo".
 - No tengáis miedo de repetir contenido, siempre que esté justificado que lo hagáis. No es una novela, es un documento técnico que *nadie se lee de arriba a abajo*, por eso tantos índices y referencias son necesarios.
 
