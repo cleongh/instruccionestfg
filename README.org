@@ -14,7 +14,7 @@ Lo primero es leerse la [[https://informatica.ucm.es/trabajo-de-fin-de-grado-y-s
 
 * Portada y aspecto
 
-Seguid los criterios estéticos de las memorias anteriores, con la portada correcta y demás. Tiene que quedar muy bien maquetado.
+Seguid los [[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjE-c6-rZb6AhWWuaQKHeWYAqEQFnoECA4QAQ&url=https%3A%2F%2Finformatica.ucm.es%2Fdata%2Fcont%2Fmedia%2Fwww%2Fpag-122587%2FPlantillas%2FTFM-TFG-Word-v1(2019).docx&usg=AOvVaw1TKh-1-9lBbLri1_VrQKu4][criterios estéticos de las memorias anteriores]], con la portada correcta y demás. Tiene que quedar muy bien maquetado.
 
 * Capítulos
 
