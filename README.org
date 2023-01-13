@@ -88,7 +88,7 @@ Aquí hay que hacer una revisión general de todo lo que se parezca a nuestro tr
 
 *** Tecnologías usadas en el trabajo
 
-Aquí se describen los puntos importante de las tecnologías que usamos, si es que hay algo interesante: librerías, algoritmos, plataformas... No hay que poner imágenes con los logos ni contar cosas triviales (no hay que explicar qué navegador de Internet usamos, a no ser que el proyecto vaya de eso). No hay que describir =git= ni =scrum=, eso se resuelve en la parte de [[*Metodología]].
+Aquí se describen los puntos importante de las tecnologías que usamos, si es que hay algo interesante: librerías, algoritmos, plataformas... No hay que poner imágenes con los logos ni contar cosas triviales (no hay que explicar qué navegador de Internet usamos, a no ser que el proyecto vaya de eso). No hay que describir =git= ni =scrum=, eso se resuelve en la parte de [[Metodología]].
 
 ** Capítulos de contribución (pueden ser varios)
 
