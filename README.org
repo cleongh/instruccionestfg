@@ -71,7 +71,7 @@ Scrum, GitHub, Discord... explicad sobre qué plataformas de desarrollo elaborá
 
 **** Plan de trabajo
 
-Una manera sencilla es coger los [[Objetivos][*Objetivos]] y, uno por uno, ponerles una fecha aproximada (en /slots/ como mucho de "1ª semana de noviembre", aunque puede ser incluso "durante diciembre"). En una tabla, ideal.
+Una manera sencilla es coger los [[Objetivos][Objetivos]] y, uno por uno, ponerles una fecha aproximada (en /slots/ como mucho de "1ª semana de noviembre", aunque puede ser incluso "durante diciembre"). En una tabla, ideal.
 
 Este plan de cómo se van a repartir los recursos y el tiempo queda *también* muy bien con un [[https://es.wikipedia.org/wiki/Diagrama_de_Gantt][diagrama de Gantt]], aunque no tiene que ser tan técnico.
 
