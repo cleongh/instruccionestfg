@@ -90,7 +90,7 @@ Aquí hay que hacer una revisión general de todo lo que se parezca a nuestro tr
 
 Aquí se describen los puntos importante de las tecnologías que usamos, si es que hay algo interesante: librerías, algoritmos, plataformas... No hay que poner imágenes con los logos ni contar cosas triviales (no hay que explicar qué navegador de Internet usamos, a no ser que el proyecto vaya de eso). No hay que describir =git= ni =scrum=, eso se resuelve en la parte de [[*Metodología]].
 
-** Capítulo*s* de contribución
+** Capítulos de contribución (pueden ser varios)
 
 Esta parte puede ser un solo capítulo, aunque pueden (y suelen) ser más, dependiendo de lo que se cuente. Es donde se explica lo que se ha hecho, la arquitectura, pruebas, experimentos, resultados... Idealmente, primero lo general y finalmente los resultados.
 
