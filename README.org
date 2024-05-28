@@ -160,3 +160,22 @@ Podéis usar cualquier editor o plataforma. Google Docs tiene la ventaja de que 
 ** Bibliografía
 
 La bibliografía es *fundamental*. Hay que procurar no citar páginas web, sino artículos científicos y libros (las páginas desaparecen, lo otro está catalogado). Gestionar una bibliografía es un poco aburrido pero con un gestor como [[https://www.zotero.org/][Zotero]] es más fácil. Google Docs tiene un plug-in para Zotero.
+
+* Presentación
+
+La presentación sigue un esquema muy parecido al de la memoria. Básicamente, lo que hay que hacer es contar todo en muy poco tiempo, y por supuesto hacerlo de manera resumida, omitiendo los detalles y haciendo énfasis en /qué se ha hecho/, /por qué/, /cómo se ha hecho/ y /cuáles han sido los resultados/.
+
+De forma orientativa (y asumiendo que hay transparencias), la presentación podría seguir un esquema así:
+
+- Diapositiva con el título, autores, etc. Aquí se debería presentar (de palabra) lo que se ha hecho en 1 o 2 frases.
+- Motivación: por qué se ha hecho esto. Se vuelve al principio (ya habíamos contado lo que hemos hecho), pero ayuda a entenderlo. 
+- Hipótesis: resumir la hipótesis, sobre todo para enlazar motivación y objetivos. La hipótesis es lo que asumís que será cierto para que vuestros objetivos sean realizables.
+- Objetivos: los generales, lo que se quiere conseguir para mejorar el estado que da contexto a la motivación.
+- Estado del arte muy breve, solo lo más relevante (1 diapositiva).
+- Arquitectura general, descripción de alto nivel de toda la solución.
+- Detalles de cada parte, en las diapositivas que se necesiten.
+- Experimentos y pruebas, qué se ha hecho para probar.
+- Resultados, qué ha salido de los experimentos.
+- Conclusiones: vistos los resultados, qué objetivos se han cumplido, y hasta qué punto se ha validado/reforzado la hipótesis.
+- Contribuciones personales.
+
