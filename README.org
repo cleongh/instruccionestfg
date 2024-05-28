@@ -6,7 +6,7 @@ Este documento contiene guías e ideas generales (no reglas) para estructurar el
 
 * Normativa TFG
 
-Lo primero es leerse la [[https://informatica.ucm.es/trabajo-de-fin-de-grado-y-sistemas-informaticos][normativa del TFG del año que nos toca]]. Siempre hay información relevante, y veréis:
+Lo primero es leerse la [[https://informatica.ucm.es/trabajo-de-fin-de-grado][normativa del TFG del año que nos toca]]. Siempre hay información relevante, y veréis:
 
 - Los plazos de entrega. De estos, el llamado "Entrega de la memoria final y de la autorización de difusión" es la fecha final en la que ya no se pueden hacer más cambios.
 - Que hay que hacer una parte en inglés.
@@ -18,7 +18,7 @@ Seguid los [[https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=
 
 * Capítulos
 
-Hay 5 partes importantes que todo trabajo académico (no sólo la memoria del TFG) tiene que contemplar. Lo normal es estructurar el documento de forma que estas partes se correspondan con los capítulos:
+Hay 5 partes importantes que todo trabajo académico (no solo la memoria del TFG) tiene que contemplar. Lo normal es estructurar el documento de forma que estas partes se correspondan con los capítulos:
 
 ** Resumen (abstract)
 
