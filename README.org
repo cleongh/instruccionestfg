@@ -43,6 +43,8 @@ La motivación es la razón *técnica* por la que se lleva a cabo un desarrollo.
 
 Es decir, hacéis el trabajo *por un motivo*, *porque vale para algo*, y porque *la tecnología lo permite*.
 
+En ningún caso es vuestra motivación personal. Las razones por las que se hace un TFG, en cuanto a la memoria se refiere, son las del contexto social, económico, etc., nunca porque os interese aprender una tecnología u os apasione un campo. No hay nada de malo en ello (al contrario), pero no se pone aquí.
+
 *** Hipótesis de partida
 
 La hipótesis de partida son las ideas que aún no sabemos si son ciertas, pero vamos a trabajar para demostrarlas. Por ejemplo, que usando números primos la identificación de caras será más efectiva.
@@ -63,13 +65,17 @@ Una lista /concreta/ de cosas que se quieren conseguir. Muchas veces ayudará ha
 - Implementar un algoritmo que descubra las caras que se parecen a 7
 - Hacer un experimento con caras reales
 
+Un estilo que suele funcionar bien es poner 2 o 3 objetivos generales de alto nivel (conseguir $A$, y aplicarlo a $B$), y luego, 6-10 objetivos más específicos que ya vayan dando forma a la planificación: (estudiar tecnología $X$, implementar $Y$, experimentar con $Z$...)
+  
 *** Metodología
 
 **** Tecnologías y herramientas usadas
+
 Scrum, GitHub, Discord... explicad sobre qué plataformas de desarrollo elaboráis el proyecto.
 
-
 **** Plan de trabajo
+
+Explicad un poco el método de trabajo: ágil, reuniones semanales, revisiones de código en GitHub...
 
 Una manera sencilla es coger los [[Objetivos][Objetivos]] y, uno por uno, ponerles una fecha aproximada (en /slots/ como mucho de "1ª semana de noviembre", aunque puede ser incluso "durante diciembre"). En una tabla, ideal.
 
@@ -81,16 +87,17 @@ Esto es más una costumbre, pero ayuda. Algo del estilo de: "En el capítulo 2 s
 
 ** Capítulo del estudio del trabajo previo (o "estado del arte")
 
-Una parte lenta de hacer, pero muy importante. En esta parte se describe todo el trabajo sobre el que se construye nuestra propuesta. Tiene que tener muchas citas, y esas citas son /idealmente/ artículos y libros técnicos y científicos. Sólo en el caso de citar algo que no esté como publicación clásica (un videojuego) se permite no ser tan riguroso.
+Una parte lenta de hacer, pero muy importante. En esta parte se describe todo el trabajo sobre el que se construye nuestra propuesta. Tiene que tener muchas citas, y esas citas son /idealmente/ artículos y libros técnicos y científicos. Solo en el caso de citar algo que no esté como publicación clásica (un videojuego) se permite no ser tan riguroso.
 
 *** Trabajos parecidos o relacionados
+
 Aquí hay que hacer una revisión general de todo lo que se parezca a nuestro trabajo.
 
 *** Tecnologías usadas en el trabajo
 
 Aquí se describen los puntos importante de las tecnologías que usamos, si es que hay algo interesante: librerías, algoritmos, plataformas... No hay que poner imágenes con los logos ni contar cosas triviales (no hay que explicar qué navegador de Internet usamos, a no ser que el proyecto vaya de eso). No hay que describir =git= ni =scrum=, eso se resuelve en la parte de [[Metodología]].
 
-** Capítulos de contribución (pueden ser varios)
+** Capítulos de contribución (pueden y suelen ser varios)
 
 Esta parte puede ser un solo capítulo, aunque pueden (y suelen) ser más, dependiendo de lo que se cuente. Es donde se explica lo que se ha hecho, la arquitectura, pruebas, experimentos, resultados... Idealmente, primero lo general y finalmente los resultados.
 
@@ -132,7 +139,7 @@ El capítulo final es bastante esquemático. Se empieza con algo parecido al /ab
 
 - Todas las imágenes y figuras tienen que ser útiles (nada de logos)
 - Todas las imágenes, figuras, tablas y demás tienen que estar numeradas con esquema (Tabla 2.5), y tener un pie que describa perfectamente lo que se ve.
-- Los títulos de capítulos y secciones tienen que ser descriptivos, no atractivos (aunque si se consiguen ambas cosas, mejor).
+- Los títulos de capítulos, secciones y subsecciones *tienen que ser descriptivos*, no atractivos (aunque si se consiguen ambas cosas, mejor). Es normal que queden largos, pero ayuda mucho. Si en el índice aparece un título que es "Implementación" y hay 4 módulos en el sistema, no sabré de qué modulo se habla. Mucho mejor "Implementación del motor de diálogo y su conexión con el motor 3D".
 - No se escribe en "personal". No se ponen nada como "hemos aprendido mucho", es un documento técnico. Para referirse a uno mismo, las fórmulas clásicas son usar la primera persona del plural ("hemos llevado a cabo"), o el impersonal ("se ha llevado a cabo").
 - Dentro de lo razonable, repetir cosas en varios sitios no es necesariamente malo. Es muy raro que alguien se lea un documento técnico como se lee una novela, se va por secciones, se cambia de capítulo... Aunque no hay que exagerar esto, hay que asumir que mucha gente se leerá las conclusiones casi lo primero.
 - Poned títulos de capítulos y secciones largos y descriptivos. No pongáis "contribución" o "prototipo". Poned "Desarrollo del sistema inteligente para hacer palomitas" o "Detalle de modelo computacional del primer prototipo".
@@ -179,3 +186,8 @@ De forma orientativa (y asumiendo que hay transparencias), la presentación podr
 - Conclusiones: vistos los resultados, qué objetivos se han cumplido, y hasta qué punto se ha validado/reforzado la hipótesis.
 - Contribuciones personales.
 
+** Fechas
+
+Generalmente cerca de la fecha de entrega de los TFGs, se confeccionan las sesiones de presentación ([[https://informatica.ucm.es/tfgs-2023-2024-junio][ejemplo 2023/2024]]). A veces, por necesidades de los recursos, puede haber modificaciones.
+
+Es importante revisar esa página por si hay cambios.
