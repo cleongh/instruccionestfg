@@ -2,7 +2,7 @@
 
 Este documento contiene guías e ideas generales (no reglas) para estructurar el trabajo de fin de grado. Es fundamental tener en cuenta que la memoria va a ser la primera impresión (y, junto con la presentación, la más relevante), y que el tribunal se la mirará con detalle.
 
-*La calidad de la memoria es esencial para aprobar el TFG.*
+*La calidad de la memoria y la presentación es esencial para la evaluación del TFG.*
 
 * Normativa TFG
 
