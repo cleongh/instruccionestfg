@@ -148,7 +148,7 @@ El capítulo final es bastante esquemático. Se empieza con algo parecido al /ab
 
 * A hombros de gigantes
 
-Se han escrito ya muchos TFGs, y es muy útil que leáis TFGs ya escritos para ver cómo se hacen. La [[https://eprints.ucm.es/][UCM publica todos los TFG]], y son de libre acceso. Principalmente de la Facultad de Informática (porque siguen la normativa, sobre todo los del año anterior), pero cualquier lectura es buena. Aunque no sea lo más divertido del mundo leer trabajos de otros, intentad echar un vistazo a ejemplos (por ejemplo, de compañeros vuestros que ya hayan terminado).
+Se han escrito ya muchos TFGs, y es muy útil que leáis TFGs ya escritos para ver cómo se hacen. La [[https://docta.ucm.es/][UCM publica todos los TFG]], y son de libre acceso. Principalmente de la Facultad de Informática (porque siguen la normativa, sobre todo los del año anterior), pero cualquier lectura es buena. Aunque no sea lo más divertido del mundo leer trabajos de otros, intentad echar un vistazo a ejemplos (por ejemplo, de compañeros vuestros que ya hayan terminado).
 
 * Comunicación
 
