@@ -156,6 +156,18 @@ El capítulo final es bastante esquemático. Se empieza con algo parecido al /ab
 - Poned títulos de capítulos y secciones largos y descriptivos. No pongáis "contribución" o "prototipo". Poned "Desarrollo del sistema inteligente para hacer palomitas" o "Detalle de modelo computacional del primer prototipo".
 - No tengáis miedo de repetir contenido, siempre que esté justificado que lo hagáis. No es una novela, es un documento técnico que *nadie se lee de arriba a abajo*, por eso tantos índices y referencias son necesarios.
 
+* Fechas para planificación
+
+De forma aproximada, fechas realistas para la planificación son:
+
+- 1 de noviembre: tener ya muy claro lo que se va a hacer: /qué/, /cómo/ y /cómo se va a evaluar/.
+- 1 de enero: primer prototipo *con todo* (aunque no esté terminado).
+- 1 de marzo: código "terminado" y plantear la evaluación.
+- 1 de abril: código *terminado* y empezar a evaluar (tened en cuenta que en mayo ya no hay gente en la Facultad).
+- 1 de mayo: primer borrador de la memoria.
+- 15 de mayo: borrador completo de la memoria.
+- 20 de mayo: versión entregable de la memoria.
+
 * [IMPORTANTE] Leed otros TFGs
 
 Se han escrito ya muchos TFGs, y es muy útil que leáis TFGs ya escritos para ver cómo se hacen. La [[https://docta.ucm.es/][UCM publica todos los TFG]], y son de libre acceso. Principalmente de la Facultad de Informática (porque siguen la normativa, sobre todo los del año anterior), pero cualquier lectura es buena. Aunque no sea lo más divertido del mundo leer trabajos de otros, intentad echar un vistazo a ejemplos (por ejemplo, de compañeros vuestros que ya hayan terminado).
