@@ -165,7 +165,15 @@ Es *fundamental* ver otros trabajos bien escritos para que todas estas explicaci
 - [[https://docta.ucm.es/entities/publication/12b5d33b-330b-40c6-aef7-2f66c5177be2][Análisis de emociones básicas mediante electroencefalografías y datos fisiológicos]]
 - [[https://docta.ucm.es/entities/publication/016cd8e0-8ac6-4e33-8797-8a18509eb06c][Generación procedimental de asentamientos humanos en mundos 3D]]
 - [[https://docta.ucm.es/entities/publication/14090fc7-b5cc-4b36-bbbb-dfb8ed389fc3][Generación procedimental de ecosistemas y biomas y evolución inteligente de seres vivos en entornos naturales]]
+- [[https://docta.ucm.es/entities/publication/b903e837-9ddc-4bb5-89b2-589e542d3f10][MMOTFG: Massively Multiplayer Online Telegram Fantasy Game]]
+- [[https://docta.ucm.es/entities/publication/fb8dee97-d5b5-44a5-aa51-ac26bdcef556][Recomendador inteligente de vestimenta ]]
+- [[https://docta.ucm.es/entities/publication/53f32842-9e84-48bc-9bff-d142a12d3293][Realidad aumentada para el Museo de América]]
+- [[https://docta.ucm.es/entities/publication/6e3d0790-6261-4e6c-b37e-98228388f522][Sistema de matchmaking para un videojuego multijugador ]]
+- [[https://hdl.handle.net/20.500.14352/5380][Automatic detection of flashing video content in videogames (en inglés)]]
+- [[https://hdl.handle.net/20.500.14352/3204][Automatic validation of accesibility guidelines in videogames (en inglés)]]
+- [[https://hdl.handle.net/20.500.14352/106112][Plugin de Blender para exportación de materiales a Unity]]
 
+  
 * Comunicación
 
 En última instancia, una memoria técnica es un ejercicio de comunicación. Se escribe para que alguien, en 1 hora, sepa todo lo relevante que ha ocurrido durante todo un año de trabajo. Filtrar, condensar, explicar bien las causas y las decisiones, y estructurar de forma que el lector tenga que emplear poco esfuerzo para entender, es fundamental.
